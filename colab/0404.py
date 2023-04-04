@@ -94,3 +94,32 @@
 #     if i % 2 == 0:
 #         print(i,end=" ")
 #     i+=1
+
+# i = 10
+# while i < 51:
+#     if i % 3 == 0:
+#         i+=1
+#         continue
+#     print(i,end=" ")
+#     i += 1 
+
+# while True:
+#     pw = input("암호 입력 : ")
+#     if pw == "python":
+#         print("로그인 성공")
+#         break
+
+# import random
+
+# ans = random.randint(0, 100)
+# print("정답 : ", ans)
+# ct = 0
+# while True:
+#     n = int(input("숫자를 맞춰 보세요 : "))
+#     ct += 1
+#     if n > ans:
+#         print("높음")
+#     elif n < ans:
+#         print("낮음")
+#     else :
+#         print("축하합니다. 시도횟수 = ", ct)

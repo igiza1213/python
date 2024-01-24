@@ -35,14 +35,14 @@
 # print("x" not in s)
 
 
-s = "good morning. MyLove Kim."
-print(s)
-print(s.upper())
-print(s.lower())
+# s = "good morning. MyLove Kim."
+# print(s)
+# print(s.upper())
+# print(s.lower())
 
-print(s.swapcase())
-print(s.capitalize())
-print(s.title())
+# print(s.swapcase())
+# print(s.capitalize())
+# print(s.title())
 
 
 
